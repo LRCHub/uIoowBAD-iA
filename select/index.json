@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "サラマンダー",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-05T10:40:34.648595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サラマンダー",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_サラマンダー_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サラマンダー",
+      "artist": "DECO∗27",
+      "has_synced": true,
+      "path": "select/02_サラマンダー_DECO∗27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サラマンダー",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_サラマンダー_DECO_27.txt"
+    }
+  ]
+}
